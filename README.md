@@ -8,3 +8,9 @@ For Arduino Scripts go to https://discord.gg/ff6auPSXFj
 List of Main Developers:
 
 - Volcan (SquidOrigins)
+
+To Do List:
+
+- Make Wiki Guides on how to use each Script
+- Make a Script Making Guide
+- Recruit More Developers
