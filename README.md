@@ -14,3 +14,5 @@ To Do List:
 - Make Wiki Guides on how to use each Script.
 - Make a Script Making Guide.
 - Recruit More Developers.
+
+If your Interested in this Project Contact me here --> https://discord.gg/dnaCt9jSCy
